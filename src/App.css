@@ -1,0 +1,63 @@
+nav {
+  display: flex;
+  height: 50px;
+  background-color: rgb(179, 247, 247);
+  width: auto;
+  overflow: hidden;
+
+}
+
+ul {
+  display: flex;
+}
+
+li{
+  list-style: none;
+  display: flex;
+  font-size: larger;
+
+}
+
+a {
+  margin-left: 30px;
+  text-decoration: none;
+  display: flex;
+  font-size: large;
+  padding-top: 10px;
+  color: rgb(255, 254, 254);
+}
+
+;
+
+h3 {
+  display: flex;
+  font-size: 40px;
+  margin-top: 25px;
+  margin: auto;
+  padding-top: 10px;
+}
+
+
+input {
+  display: block;
+  width: auto;
+  height: 50px;
+}
+
+#co {
+  width: auto;
+  height: auto;
+ 
+}
+a :hover{
+  background-color: rgb(39, 40, 39);
+  color: whitesmoke;
+}
+#con{
+  display: flex;
+  width: auto;
+  height: auto;
+  flex-wrap: wrap;
+
+}
+
